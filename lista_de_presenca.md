@@ -1,10 +1,6 @@
 # Engenharia de Software 2026
-## Lista de presença
-* Emanoel
-
-Entendido. Como a classe já está instanciada no `main.py`, o foco deles será puramente a **interação com o objeto** e o **fluxo de trabalho do Git**. 
-
-Seguindo sua preferência por sinceridade e detalhamento, aqui está uma proposta de enunciado técnica e direta, ideal para estudantes de Engenharia de Software no IFES:
+## ATIVIDADE DE Lista de presença
+* Prof.Emanoel Vieira
 
 ---
 
